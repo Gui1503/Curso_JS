@@ -1,0 +1,39 @@
+Aula 12
+curso Java script
+Gustavo Guanabara
+
+* Condições em java script parte 02:
+condições alinhadas:
+if(condição1){
+    bloco 1
+}else{
+    if(condição2){
+    bloco 2
+    }else{
+    bloco 3
+    }
+}
+
+simpliicando:
+if(hora < 12){
+    console.log('Bom dia!')
+
+}else if(hora <= 18){
+    console.log('Boa tarde!')
+}else{
+    console.log('Boa noite!')
+}
+
+
+condições multiplas:
+
+switch(expressão){
+    case valor 1:
+     break
+    case valor 2:
+     break
+    case valor 3:
+     break
+    defalut:
+     break
+}

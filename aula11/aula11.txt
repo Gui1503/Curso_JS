@@ -1,0 +1,16 @@
+Aula 11
+curso Java script
+Gustavo Guanabara
+
+* Condições em java script parte 01:
+condição simples:
+if(condição){
+    true
+}
+condição composta:
+if(condiçõa){
+true
+}else{
+false
+}
+

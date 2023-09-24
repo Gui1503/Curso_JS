@@ -1,0 +1,22 @@
+Aula 05 
+curso Java script
+Gustavo Guanabara
+
+* Nesta aula vc aprende a comentar nos seus códigos, peguei o exemplo da aula 03 para simplificar a explicação.
+* Nesta aula vc aprende sobre variáveis!!!
+* Utilizamos o Node JS para exemplificar os exemplos das variáveis.
+
+
+* Tipos primitivos primordiais de variáveis
+typeof = tipo de :
+1- Number são todos tipos de números com e sem pontos negativos e positivos
+Valores internos importantes:
+Infinity.
+NaN.
+2- String "Gogle"comaspas duplas 'JavaScript' com aspas simples ou `Guilherme`com crase
+3- Bolean  true or false.
+4- null
+5- undefined
+6- object
+Array
+7- Function

@@ -1,0 +1,26 @@
+Aula 06 
+curso Java script
+Gustavo Guanabara
+
+* Nesta aula vc aprende a Manipulção de daodos!
+* Aprendi a converter um variável do valor de String para Numero
+Colocamos o Number na frente da Variável
+*Aprendi a converter variáveis do tipo numeros para String
+Colocamos String e depois a variável ex: String(n) ou
+Colocamos a variável e depois toString ex: n.toString().
+em ambos exemplos conseguimos converter os números em Strings
+* Nesta aula aprendemos a utilizar o ${} templaite String.
+Ex:  > `O Aluno ${nome} com ${idade} anos tirou ${nota}!`
+        'O Aluno Guilherme com 38 anos tirou 9.5!'
+window.alert(`A soma de ${n1} e ${n2} é:2 ${s} !`) aqui eu coloque dentro de um alert.
+*Formatação de String
+var s = "Java Script"
+s.length      // quantos caracteres a string templaite
+s.toUpperCase()// tudo para "Maisculo"
+s.toLowerCase()// tudo para "Minúsculo"
+
+// Aqui utilizamos uma formatação para realR$ ou dolarUS$ (toLocaleString)
+> n1.toLocaleString('pt-BR' , {style: 'currency' , currency: 'BRL' })
+'R$ 1.545,50'
+> n1.toLocaleString('pt-BR' , {style: 'currency' , currency: 'USD'})
+'US$ 1.545,50'

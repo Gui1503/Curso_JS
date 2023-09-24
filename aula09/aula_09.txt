@@ -1,0 +1,31 @@
+Aula 09
+curso Java script
+Gustavo Guanabara
+
+* Intrudução ao DOM
+*Instalação do watch in Crome (No lugar estou utilizando o live server!)
+O qu é o DOM?
+D Document 
+O object
+M model
+
+Àrvore DOM:
+            Windom
+              |
+              |
+location, document , history
+              |
+              |
+            html
+         head , body
+ meta, title      h1, p, div
+                      |
+                    strong
+
+
+
+Selecionando:
+*Por maca var p1 = document.getElementsByTagName('p')
+*Por ID = document.getElementsBy('p')
+*Por nome = document.getElementsByTagName
+*Por Seleor = document.querySelector('div#p) caso use 

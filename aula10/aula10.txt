@@ -1,0 +1,22 @@
+Aula 10
+curso Java script
+Gustavo Guanabara
+
+*Eventos DOM são vários dentre eles aqui temos alguns exemplos simples:
+Ex:
+mouseenter
+mousemove
+mousedown
+mouseup
+click
+mouseout
+
+*Aprendendo Funcões
+function ação(){
+  bloco
+}
+
+* também fala de como fazer esses eventos utilizando addEventListener!
+a.addEventListener('click', clicar)
+a.addEventListener('mouseenter' , entrar)
+a.addEventListener('mouseout' , sair)

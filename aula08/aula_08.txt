@@ -1,0 +1,39 @@
+Aula 08
+curso Java script
+Gustavo Guanabara
+
+* Operadores parte 02 relacionais , lógicos e ternários:
+Ordem de precedência:
+1° operadores aritiméticos!
+2° operadores relacionais!
+3° operadores lógicos!
+Relacionais:
+> maior                        5 > 2      true
+< menor                        7 < 4      false
+>= maior ou igual              8 >= 2     true
+<= menor ou igual              9 <= 7     false
+== igual                       5 == 5     true
+!= diferente                   4 != 4     false
+Lógicos:          Odem de precedência:
+!     negação           1°
+&&    conjunção   (ee)  2°
+||    disjunção   (ou)  3°
+
+Ternário:
+teste ? true : false
+? oq acontece quando o tese é verdadeiro!
+: oq acontece quando o teste é falso!
+EX 01:
+>  m > 7 ?'aprovado':'reprovado'
+'reprovado'
+> m +=3
+8.5
+>  m > 7 ?'aprovado':'reprovado'
+'aprovado'
+
+Ex 02:
+> idade = 19
+> var r = idade >= 18 ?'Maior':'Menor'
+undefined
+> r
+'Maior'
